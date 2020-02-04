@@ -1,3 +1,5 @@
+#include <stdlib.h>
+#include <stdio.h>
 char a = ". -";
 char b = "- . . .";
 char c = "- . - .";
