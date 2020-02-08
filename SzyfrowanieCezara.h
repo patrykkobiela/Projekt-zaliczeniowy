@@ -1,7 +1,7 @@
 #include <ctype.h>
 #include <stdio.h>
 
-int main(void)
+int SzyfrowanieCezara(void)
   {
    int ch,key;
    printf("Podaj przesuniecie: ");
